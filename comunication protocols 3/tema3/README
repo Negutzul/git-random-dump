@@ -1,0 +1,18 @@
+Am folosit ca punct de plecare laboratorul 10 pe care l-am ajustat
+la cerintele temei.
+https://github.com/kgabis/parson -sursa bucatilor
+de cod care folosesc parson
+
+rulare program:
+scriem make in bash si completam cu urmatoarele
+
+register pentru a inregistra un utilizator nou
+daca putem sa o facem primim un raspuns de confirmare
+
+login pentru a ne loga ca utilizator
+daca putem sa o facem primim un raspuns de confirmare
+
+enter_library pentru a verifica daca utilizatorul logat are acces la librarie
+daca avem acces si suntem logati o facem primim un raspuns de confirmare
+
+get_books pentru a primi date legate de cartile la care avem acces.
